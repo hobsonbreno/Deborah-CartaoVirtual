@@ -1,2 +1,2 @@
 construção do site da empresa ponto design.
-link:https://hobsonbreno.github.io/Deborah-CartaoVirtual/
+link: https://hobsonbreno.github.io/deborah/
